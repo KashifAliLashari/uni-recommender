@@ -2,7 +2,7 @@
 
 **UniRecommender** is a modern, responsive, and intelligent web application designed to help prospective students find their ideal university. By leveraging a sophisticated matching algorithm and a sleek, intuitive user interface, it provides personalized university recommendations based on academic profiles, financial budgets, and personal preferences.
 
-![image](https://github.com/user-attachments/assets/eac09c3a-225e-4b62-932d-147e577bd952)
+![image](https://github.com/user-attachments/assets/708f1f7d-910a-4a70-8a7d-2de7b030ca02)
 ![image](https://github.com/user-attachments/assets/6392802f-54ec-452b-8f24-395c6553e3e0)
 
 ---
