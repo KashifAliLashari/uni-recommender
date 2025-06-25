@@ -1,7 +1,7 @@
 # UniRecommender: AI-Powered University Matching Engine
 
 ---
-![uni recommender](https://github.com/user-attachments/assets/b515018d-a588-42f1-b385-f4206c203888)
+![uni recommender](https://github.com/user-attachments/assets/6e7511ed-c987-4183-ba69-caa620f77ac0)
 
 
 **UniRecommender** is a modern, responsive, and intelligent web application designed to help prospective students find their ideal university. By leveraging a sophisticated matching algorithm and a sleek, intuitive user interface, it provides personalized university recommendations based on academic profiles, financial budgets, and personal preferences.
