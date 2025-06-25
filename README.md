@@ -1,8 +1,7 @@
 # UniRecommender: AI-Powered University Matching Engine
 
 ---
-![image](https://github.com/user-attachments/assets/708f1f7d-910a-4a70-8a7d-2de7b030ca02)
-![image](https://github.com/user-attachments/assets/6392802f-54ec-452b-8f24-395c6553e3e0)
+![uni recommender](https://github.com/user-attachments/assets/b515018d-a588-42f1-b385-f4206c203888)
 
 
 **UniRecommender** is a modern, responsive, and intelligent web application designed to help prospective students find their ideal university. By leveraging a sophisticated matching algorithm and a sleek, intuitive user interface, it provides personalized university recommendations based on academic profiles, financial budgets, and personal preferences.
@@ -19,8 +18,8 @@
 *   **Detailed University Cards**: Each recommendation includes:
     *   An overall match score, visualized with a custom gradient progress ring.
     *   Key details: global ranking, tuition fees, and acceptance rate.
-    *   An expandable "Why this match?" section with a detailed breakdown of the scoring.
-*   **Responsive Design**: A beautiful and intuitive UI that works seamlessly on both desktop and mobile devices.
+    *   An expandable "Why this match?" section with a detailed scoring breakdown.
+*   **Responsive Design**: A beautiful and intuitive UI that works seamlessly on desktop and mobile devices.
 *   **Modern Tech Stack**: Built with React, FastAPI, and Tailwind CSS for a high-performance, scalable solution.
 
 ---
@@ -89,7 +88,7 @@ You will need to run two separate processes in two different terminals.
 1.  **Start the Backend Server:**
     *   From the **project root directory** (where `main.py` is located):
         ```bash
-        uvicorn main:app --reload
+        uvicorn main: app --reload
         ```
     *   The API server will be running at `http://127.0.0.1:8000`.
 
